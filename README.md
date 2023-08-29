@@ -1,5 +1,5 @@
 # usefull_tools
-a collection of usefull tools
+a collection of useful tools
 
 * record memory and time consumption for a python function: cal_memory_time_cost_for_a_python_function.ipynb
 
